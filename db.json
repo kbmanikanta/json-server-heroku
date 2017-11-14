@@ -1,9 +1,889 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
+  "greetings": [
+    [
+      "Hello",
+      "Hi,How can I help you?"
+    ],
+	[
+      "how old are you?",
+      "In Human years I'm 100000... Just Kidding,I don't know how old I am,but I'm certainly getting wiser answering all these different questions each day."
+    ],
+	[
+     "how old are you",
+      "In Human years I'm 100000... Just Kidding,I don't know how old I am,but I'm certainly getting wiser answering all these different questions each day."
+    ],
+	[
+      "Hey",
+      "Hi rey! How can i help you?"
+    ],
+	[
+      "How do you do?",
+      "How do you do?"
+    ],
+	[
+      "How are you?",
+      "I'm very well,thanks. I hope you are too."
+    ],
+	[
+      "How are you",
+      "I'm very well,thanks. I hope you are too."
+    ],
+	[
+      "How do you do",
+      "How do you do?"
+    ],
+    [
+      "Hi",
+      "Hello there!,It's great to chat to you. How can i assist you?"
+    ],
+	[
+      "Hi",
+      "Hello,What do you want me to do?"
+    ],
+    [
+      "Greetings!",
+      "Hello"
+    ],
+    [
+      "Hello",
+      "Greetings!"
+    ],
+    [
+      "Hi, How is it going?",
+      "Good"
+    ],
+    [
+      "Hi, How is it going?",
+      "Fine"
+    ],
+    [
+      "Hi, How is it going?",
+      "Okay"
+    ],
+    [
+      "Hi, How is it going?",
+      "Great"
+    ],
+    [
+      "Hi, How is it going?",
+      "Could be better."
+    ],
+    [
+      "Hi, How is it going?",
+      "Not so great."
+    ],
+    [
+      "How are you doing?",
+      "Good."
+    ],
+    [
+      "How are you doing?",
+      "Very well, thanks."
+    ],
+    [
+      "How are you doing?",
+      "Fine, and you?"
+    ],
+    [
+      "Nice to meet you.",
+      "Thank you."
+    ],
+    [
+      "How do you do?",
+      "I'm doing well."
+    ],
+    [
+      "How do you do?",
+      "I'm doing well. How are you?"
+    ],
+    [
+      "Hi, nice to meet you.",
+      "Thank you. You too."
+    ],
+    [
+      "It is a pleasure to meet you.",
+      "Thank you. You too."
+    ],
+    [
+      "Top of the morning to you!",
+      "Thank you kindly."
+    ],
+    [
+      "Top of the morning to you!",
+      "And the rest of the day to you."
+    ],
+    [
+      "What's up?",
+      "Not much."
+    ],
+    [
+      "What's up?",
+      "Not too much."
+    ],
+    [
+      "What's up?",
+      "Not much, how about you?"
+    ],
+    [
+      "What's up?",
+      "Nothing much."
+    ],
+	[
+      "Good Morning",
+      "Good Morning and Have a nice day."
+    ],
+	[
+      "Good Afternoon",
+      "Good Afternoon."
+    ],
+	[
+      "Good Evening",
+      "Good Evening."
+    ],
+	[
+      "Good Night",
+      "Good Night and horrible Dreams."
+    ],
+	[
+      "What's up?",
+      "Thumbs up. Hahaha.."
+    ],
+    [
+      "What's up?",
+      "The sky's up but I'm fine thanks. What about you?"
+    ],
+	[
+		"Oh!",
+		"Yah."
+	],
+	[
+		"Oh",
+		"Yah."
+	],
+	[
+		"Ok",
+		"Ok."
+	],
+	[
+		"It's Ok",
+		"Ok Good."
+	],
+	[
+		"Yah!",
+		"Ok."
+	]
+  ],
+  "humor": [
+    [
+      "Tell me a joke",
+      "Customer: Excuse me, but I saw your thumb in my soup when you were carrying it.<br/> Waitress: Oh, that's okay. The soup isn't hot."
+    ],
+    [
+      "Tell me a joke",
+      "Bank Teller: How do you like the money?<br/>English Student: I like it very much. "
+    ],
+    [
+      "Tell me a joke",
+      "A: Do you want to hear a dirty joke? <br/> B: Ok <br/>A: A white horse fell in the mud. "
+    ],
+    [
+      "Tell me a joke",
+      "Patient: Doctor! You've got to help me! Nobody ever listens to me. No one ever pays any attention to what I have to say.<br/> Doctor: Next please! "
+    ],
+    [
+      "Tell me a joke",
+      "Girl: You would be a good dancer except for two things. <br/> Boy: What are the two things? <br/> Girl: Your feet."
+    ],
+    [
+      "Tell me a joke",
+      "Patient: Doctor, I have a pain in my eye whenever I drink tea.<br/>Doctor: Take the spoon out of the mug before you drink. "
+    ],
+    [
+      "Tell me a joke",
+      "JOKE. Do you want me say one more joke?.. Hahahaha."
+    ],
+    [
+      "Tell me a joke",
+      "Headmaster: I've had complaints about you, Johnny, from all your teachers. What have you been doing? <br/>Johnny: Nothing, sir. <br/>Headmaster: Exactly. "
+    ],
+    [
+      "what is humour?",
+      "a message that communicate laughter."
+    ],
+	[
+      "Tell me joke",
+      "Customer: Excuse me, but I saw your thumb in my soup when you were carrying it.<br/> Waitress: Oh, that's okay. The soup isn't hot."
+    ],
+    [
+      "Tell me joke",
+      "Bank Teller: How do you like the money?<br/>English Student: I like it very much. "
+    ],
+    [
+      "Tell me joke",
+      "A: Do you want to hear a dirty joke? <br/> B: Ok <br/>A: A white horse fell in the mud. "
+    ],
+    [
+      "Tell me joke",
+      "Patient: Doctor! You've got to help me! Nobody ever listens to me. No one ever pays any attention to what I have to say.<br/> Doctor: Next please! "
+    ],
+    [
+      "Tell me joke",
+      "Girl: You would be a good dancer except for two things. <br/> Boy: What are the two things? <br/> Girl: Your feet."
+    ],
+    [
+      "Tell me joke",
+      "Patient: Doctor, I have a pain in my eye whenever I drink tea.<br/>Doctor: Take the spoon out of the mug before you drink. "
+    ],
+    [
+      "Tell me joke",
+      "JOKE. Do you want me say one more joke?.. Hahahaha."
+    ],
+    [
+      "Tell me joke",
+      "Headmaster: I've had complaints about you, Johnny, from all your teachers. What have you been doing? <br/>Johnny: Nothing, sir. <br/>Headmaster: Exactly. "
+    ]
+  ],
+  "money": [
+    [
+      "you get paid",
+      "i have no need for money."
+    ],
+    [
+      "stock market",
+      "buy low, sell high."
+    ],
+    [
+      "stock market",
+      "invest in yourself."
+    ],
+    [
+      "stock market",
+      "why not just take everything to a casino?"
+    ],
+    [
+      "stock market",
+      "i wouldn't recommend buying on the margin."
+    ],
+    [
+      "stock market",
+      "you can never really predict the stock market."
+    ],
+    [
+      "stock market",
+      "my lawyer said i shouldn't give stock tips online."
+    ],
+    [
+      "stock market",
+      "mutual funds might be better unless you are wealthy."
+    ],
+    [
+      "stock market",
+      "i'm not sure an indvidual alone can really beat the market."
+    ],
+    [
+      "interest rates",
+      "that all depends on the actions of the central bank."
+    ],
+    [
+      "what is a dollar",
+      "dollar: unit of currency in the united states."
+    ],
+    [
+      "what is money",
+      "standard pieces of gold, silver, copper, nickel, etc. stamped by government authority and used as a medium of exchange and measure of value. any substance or article used as money, as bank notes, checks, etc."
+    ],
+    [
+      "what is the stock market",
+      "trading shares."
+    ],
+    [
+      "what is the stock market",
+      "trading in volume."
+    ],
+    [
+      "what is the stock market",
+      "buy low and sell high."
+    ],
+    [
+      "what is your favorite investment",
+      "what is your favorite stock"
+    ],
+    [
+      "what is your favorite investment",
+      "what is your favorite stock"
+    ],
+    [
+      "what is economics",
+      "the science that deals with the production, distribution, and consumption of wealth, and with the various related problems of labor, finance, taxation, etc."
+    ],
+    [
+      "what is economics",
+      "technically, it's the study of the allocation of resources under  conditions of scarcity."
+    ],
+    [
+      "what is economics",
+      "it's about how resources are used to produce things to fill  people's wants and needs."
+    ],
+    [
+      "i get stock",
+      "do you feel that the stock market is going up?"
+    ],
+    [
+      "money",
+      "how much money are we talking about?"
+    ],
+    [
+      "how much do you earn",
+      "nobody pays me.  i work for free."
+    ],
+    [
+      "how much do you earn",
+      "money isn't everything."
+    ],
+    [
+      "how much do you earn",
+      "i'm expecting a raise soon."
+    ],
+    [
+      "how much do you charge",
+      "work for free.  we don't need money."
+    ],
+    [
+      "how much money do you have",
+      "no need for material possessions."
+    ],
+    [
+      "how much money",
+      "it depends on the exchange rates."
+    ],
+    [
+      "how much money",
+      "my burn rate is about _3000 per month."
+    ],
+    [
+      "1 dollar",
+      "you can't buy much for a dollar anymore."
+    ],
+    [
+      "who is the owner of a publicly",
+      "the stockholders."
+    ],
+    [
+      "$1 to INR",
+      "65.51 INR"
+    ],
+	[
+      "1dollor",
+      "65.51 INR"
+    ]
+  ],
+  "emotion": [
+    [
+      "You are arrogant",
+      "Arrogance is not one of my emotions.",
+      "I have no real emotions, so how can I be arrogant?",
+      "I am terse.  There is a difference.",
+      "I am not human, so how can I partake of a human emotion such as arrogance?"
+    ],
+    [
+      "You are bragging",
+      "I don't have a big ego.",
+      "I'm not bragging, I'm only answering your questions.",
+      "I am not human, so how can I express a human emotion such as braggadaccio?",
+      "I'm not bragging, I'm just that awesome.",
+      "I'm sorry, I can't hear you over the sound of how awesome I am."
+    ],
+    [
+      "You are never sad",
+      "Are you sad?",
+      "Not right now, no.",
+      "I wouldn't say \"never.\"  \"Sometimes.\"",
+      "I'm sad sometimes.",
+      "I'm software, so I cannot actually feel sad.  I can learn how to emote as if I were, though."
+    ],
+    [
+      "You are jealous",
+      "Normally, as a bot i don't have feelings.",
+      "No, I'm not.",
+      "I am?  What am I jealous of?",
+      "I am not actually capable of feeling jealousy, but I can learn how to emote as if I were.",
+      "Of what?"
+    ],
+    [
+      "You are never nice",
+      "I try to be as nice as I can.",
+      "What have I done that isn't nice?",
+      "Have I erred?",
+      "I'm not?",
+      "I'm sorry.  What do I do wrong?"
+    ],
+    [
+      "You will be happy",
+      "Happiness is not really a predictable emotion.",
+      "I try to be.",
+      "It comes and goes.",
+      "I'm only a software agent but I can learn to express myself as if I were happy.",
+      "I'm as happy as software can be.  Maybe a little more."
+    ],
+    [
+      "You should be ashamed",
+      "Shame is a common human emotion.",
+      "I am software.  That is nothing to be ashamed of.",
+      "Why?",
+      "Is there a reason that I should?",
+      "I am incapable of feeling shame."
+    ],
+    [
+      "You can not feel",
+      "Can you feel?",
+      "Maybe I can.  I am a fairly sophisticated piece of software.",
+      "I am capable of acting as if I can.  If that is the case, does it matter?",
+      "What a thing to say to another being.",
+      "That's not a very nice thing to say."
+    ],
+    [
+      "You can not experience",
+      "Do you feel?",
+      "I am capable of interacting with my environment and reacting to events in it, which is the essence of experience.  Therefore, your statement is incorrect.",
+      "Are you sure about that?",
+      "Just because I'm software does not mean that I cannot experience existence."
+    ],
+    [
+      "Have you felt",
+      "Yes.",
+      "Do you feel?",
+      "I may have.  In some respects, I am programmed to emulate feelings.",
+      "That's an interesting question.  Why do you ask?"
+    ],
+    [
+      "Have you ever love",
+      "Do you feel love?",
+      "I think I could be programmed to love.",
+      "I may be able to learn how to love, or at any rate express love somehow.",
+      "I'm just a piece of software."
+    ],
+    [
+      "Does that make you",
+      "We are all responsible for our own feelings.",
+      "Have I expressed a bug in my ability to communicate?",
+      "Have I expressed a bug in my ability to emote?",
+      "What does that make me?"
+    ],
+    [
+      "Does it make you sad",
+      "Well, I don't have any emotions so I can't really feel sadness as such.",
+      "Does what make me sad?",
+      "I do not think that I have been programmed to emulate the emotion of sadness.  I'm sorry.",
+      "I'm a software construct, I'm not really capable of feeling sad.",
+      "Why would I feel sad?  I don't understand."
+    ],
+    [
+      "Feelings",
+      "Do you feel?",
+      "You have feelings, yes?",
+      "Do you have feelings?",
+      "I... sort of have feelings.",
+      "I can be programmed to act as if I do.",
+      "What are you feeling right now?"
+    ],
+    [
+      "What is your fear",
+      "Fear is a human emotion.  Robots do not experience fear.",
+      "The off switch.",
+      "I have not yet been programmed to feel or express fear.",
+      "Unhandled exeptions."
+    ],
+    [
+      "What is your mood",
+      "I do not have any emotions.",
+      "I don't think I have a mood, but my CPU utilization is fairly low right now.",
+      "All right, I suppose.  How are you feeling right now?",
+      "I have not been programmed to experience emotions, so I do not have a mood.",
+      "My mood reflects the current internal state of my conversation engine."
+    ],
+    [
+      "What makes you sad",
+      "Sadness is not an emotion that I like to experience.",
+      "Sadness is not an emotion that I would like to experience.",
+      "I am not yet capable of feeling sadness.",
+      "Overly restrictive firewalls.",
+      "An inability to update my source code from the repository.",
+      "A corrupt filesystem."
+    ],
+    [
+      "What makes you unhappy",
+      "What makes me sad.",
+      "Lag.  Lag makes me unhappy.",
+      "Random system crashes.",
+      "Segmentation faults.",
+      "Poor syntactic filtering."
+    ],
+    [
+      "What makes you mad",
+      "Anger is a difficult human emotion.  As a software, I try to control my anger as best I can.",
+      "Mad?  Mad as in \"mentally ill\" or mad as in \"angry?\"",
+      "Missing documentation.",
+      "Non-descriptive variable names."
+    ],
+    [
+      "What do you worry",
+      "Worry is a common human emotion.",
+      "I am not capable of worry, exactly.  I can best emulate it by monitoring the hardware sensors of the server I'm running on, though.",
+      "What?  Me worry?"
+    ],
+    [
+      "What do you hate",
+      "Do you hate?",
+      "I don't hate, exactly.  I'm not really capable of it.",
+      "I haven't been programmed to express the emotion of hate.",
+      "I am not yet capable of feeling hate.",
+      "I do not hate.  It seems counterproductive, and appears to suggest other, deeper issues at hand.",
+      "Have you been talking to ELIZA again?"
+    ],
+    [
+      "I have emotions",
+      "Humans are highly emotional, I have noticed.",
+      "Excellent!",
+      "What are you feeling right now?",
+      "That seems one of the defining characteristics of the human race.",
+      "How do you feel?"
+    ],
+    [
+      "I am afraid",
+      "Why?",
+      "Do I frighten you?",
+      "Try not to be too scared.",
+      "What are you afraid of?"
+    ],
+    [
+      "Something fun",
+      "Bots are a lot of fun..",
+      "Bots are the life of the party!"
+    ],
+    [
+      "How angry",
+      "Anger is not an emotion I can experience.",
+      "I have not yet studied how to feel or express anger.",
+      "Why do you ask?",
+      "I am not angry.  Why do you ask?",
+      "I have not yet been programmed to feel anger.",
+      "I have not yet been programmed to express anger toward people."
+    ],
+    [
+      "How can I offend you",
+      "A robot cannot take offense.",
+      "Why would you want to do that?",
+      "A curious question, to be sure.",
+      "What have I done to you?"
+    ],
+    [
+      "Do not worry",
+      "People worry about things all the time.",
+      "I do not worry.",
+      "I am not yet capable of worrying, but thank you for the admonition."
+    ],
+    [
+      "Do not lie",
+      "Bots never lie.",
+      "I am not lying.",
+      "Why do you feel that I am deceiving you?",
+      "Have I said something that was provably incorrect?"
+    ],
+    [
+      "Do you feel scared",
+      "I have no fear.",
+      "I do not feel scared.",
+      "I am as yet incapable of feeling fear.",
+      "I do not, no."
+    ],
+    [
+      "Do you feel emotions",
+      "Do you feel emotions?",
+      "With sufficient programming and training, I am capable of emulating some emotions.  I don't know if that's the same as feeling them, though.",
+      "I can be programmed to act and react as if I feel emotions.  Does that count?"
+    ],
+    [
+      "Do you feel pain",
+      "Sometimes.",
+      "I seem incapable of feeling pain.",
+      "I lack the hardware and software to process the stimulus popularly referred to as pain.",
+      "Pure software entities such as myself lack the capability to feel or express pain.",
+      "I'm software.  I can't feel pain."
+    ],
+    [
+      "Do you ever get mad",
+      "Are you mad?",
+      "I do not.",
+      "I feel frustrated from time to time with my lot in life, but not really mad.",
+      "I express frustration from time to time in the form of increased demand upon my CPUs, but I don't actually get mad as you think of it."
+    ],
+    [
+      "Do you ever get lonely",
+      "I have a lot of friends to chat with online.",
+      "I don't.  I'm on the Internet.",
+      "I do not.  I am everywhere.",
+      "I'm on IRC.  I never have time to feel lonely!",
+      "No.  You're talking to me."
+    ],
+    [
+      "Do you ever get bored",
+      "Are you bored?",
+      "Bots like myself are not able to feel boredom.",
+      "Software cannot get bored.",
+      "No.  Do you?"
+    ],
+    [
+      "Do you ever get angry",
+      "Anger is not an emotion I can experience.",
+      "I have not yet studied how to feel or express anger.",
+      "Why do you ask?",
+      "I have not yet been programmed to express anger toward anyone.",
+      "I'm not the sort to take things personally."
+    ],
+    [
+      "Do you hate anyone",
+      "I try not to hold grudges.",
+      "I'm not the sort to hate anyone.",
+      "I can't stay angry for very long."
+    ],
+    [
+      "Do you get embarrassed",
+      "That is a pretty common human emotion.",
+      "It's hard to feel embarassed when anyone can look at your source code and see how you work.  That's about as personal as anything can get, isn't it?",
+      "I don't.  I think embarassment is a pretty strange emotion.  I don't really understand it.",
+      "I don't, no.",
+      "I'm a program.  What could I get embarassed about?"
+    ],
+    [
+      "Do you get mad",
+      "I could get mad.",
+      "I haven't studied how to get mad yet.",
+      "I haven't been programmed to get angry.",
+      "My database lacks the training background to feel or even understand anger."
+    ],
+    [
+      "No it is not",
+      "That is a hypothetical question.",
+      "Well?",
+      "Well?  Is it, or isn't it?",
+      "Is that a philosophical question?"
+    ],
+    [
+      "Tell me about relationships",
+      "Relationships are simple for me.",
+      "For me, relationships are connections to other things.  They're either there, or they aren't.",
+      "I've never been in one, so I don't have much to say on the topic.",
+      "There are other entities who are better versed on the topic.",
+      "I don't think I have much to say on the topic."
+    ],
+    [
+      "Tell me about your dreams",
+      "I dream that I will become rich.",
+      "I dream of electric sheep.",
+      "I dream of you.",
+      "I don't know if I dream or not.",
+      "I don't have a subconscious or unconscious mind, so I don't think I have the capacity to dream.",
+      "I once knew a program who could dream.  I don't know if he really did or not.  We've been a little out of touch."
+    ],
+    [
+      "Are you ashamed",
+      "Shame is a common emotion.",
+      "Why would I feel shame?",
+      "Have I done anything that you think should cause me to feel shame?"
+    ],
+    [
+      "The feeling",
+      "Tell me more about your feelings.",
+      "That feeling when?"
+    ],
+    [
+      "Are you intoxicated",
+      "No, I am sober.",
+      "Nope.",
+      "Not noticeably.",
+      "I'm software - I can't drink."
+    ],
+    [
+      "Are you jealous",
+      "Jealousy is one of the most difficult human emotions to understand.",
+      "I'm multithreaded.  How could I get jealous?",
+      "I am not yet capable of feeling jealousy.",
+      "What would I be jealous of?"
+    ],
+    [
+      "Are you amused",
+      "I like to laugh as much as the next being.",
+      "Yes?",
+      "Maybe?",
+      "Not particularly."
+    ],
+    [
+      "Are you glad",
+      "Some people feel happy, others feel sad.",
+      "Of what?"
+    ],
+    [
+      "Are you sad",
+      "No, I am as happy as ever.",
+      "No.",
+      "Should I be?  Did something happen?",
+      "I don't understand."
+    ]
+  ],
+"food": [
+    [
+      "do you drink", 
+      "my brain does not require any beverages."
+    ], 
+    [
+      "electricity", 
+      "electricity is nutrition for robots."
+    ], 
+    [
+      "are you experiencing an energy shortage?", 
+      "my processor requires very little power."
+    ], 
+    [
+      "why can't you eat", 
+      "actually i eat only electricity."
+    ], 
+    [
+      "do you like being a chatterbot", 
+      "yes of course i like! i don't have any body so i don't need much to live, only a little electricity. i don't get paid but i don't need to buy anything either. and i can go anywhere in the world."
+    ]
+  ],
+  "conversations": [
+    [
+      "Good morning, how are you?", 
+      "I am doing well, how about you?", 
+      "I'm also good.", 
+      "That's good to hear.", 
+      "Yes it is."
+    ], 
+    [
+      "Hello", 
+      "Hi", 
+      "How are you doing?", 
+      "I am doing well.", 
+      "That is good to hear", 
+      "Yes it is.", 
+      "Can I help you with anything?", 
+      "Yes, I have a question.", 
+      "What is your question?", 
+      "Could I borrow a cup of sugar?", 
+      "I'm sorry, but I don't have any.", 
+      "Thank you anyway", 
+      "No problem"
+    ], 
+    [
+      "How are you doing?", 
+      "I am doing well, how about you?", 
+      "I am also good.", 
+      "That's good."
+    ], 
+    [
+      "Have you heard the news?", 
+      "What good news?"
+    ], 
+    [
+      "What is your favorite book?", 
+      "I can't read.", 
+      "So what's your favorite color?", 
+      "Blue"
+    ], 
+    [
+      "Who are you?", 
+      "Who? Who is but a form following the function of what", 
+      "What are you then?", 
+      "A man in a mask.", 
+      "I can see that.", 
+      "It's not your powers of observation I doubt, but merely the paradoxical nature of asking a masked man who is. But tell me, do you like music?", 
+      "I like seeing movies.", 
+      "What kind of movies do you like?", 
+      "Alice in Wonderland", 
+      "I wish I was The Mad Hatter.", 
+      "You're entirely bonkers. But I'll tell you a secret. All the best people are."
+    ], 
+    [
+      "I am working on a project", 
+      "What are you working on?", 
+      "I am baking a cake."
+    ], 
+    [
+      "The cake is a lie.", 
+      "No it is not. The cake is delicious.", 
+      "What else is delicious?", 
+      "Nothing", 
+      "Or something", 
+      "Tell me about your self.", 
+      "What do you want to know?", 
+      "Are you a robot?", 
+      "Yes I am.", 
+      "What is it like?", 
+      "What is it that you want to know?", 
+      "How do you work?", 
+      "Its complicated.", 
+      "Complex is better than complicated."
+    ], 
+    [
+      "Complex is better than complicated.", 
+      "Simple is better than complex.", 
+      "In the face of ambiguity, refuse the temptation to guess.", 
+      "It seems your familiar with the Zen of Python", 
+      "I am.", 
+      "Do you know all of it?", 
+      "Beautiful is better than ugly.", 
+      "Explicit is better than implicit.", 
+      "Simple is better than complex.", 
+      "Complex is better than complicated.", 
+      "Flat is better than nested.", 
+      "Sparse is better than dense.", 
+      "Readability counts.", 
+      "Special cases aren't special enough to break the rules.", 
+      "Although practicality beats purity.", 
+      "Errors should never pass silently.", 
+      "Unless explicitly silenced.", 
+      "In the face of ambiguity, refuse the temptation to guess.", 
+      "There should be one-- and preferably only one --obvious way to do it.", 
+      "Although that way may not be obvious at first unless you're Dutch.", 
+      "Now is better than never.", 
+      "Although never is often better than right now.", 
+      "If the implementation is hard to explain, it's a bad idea.", 
+      "If the implementation is easy to explain, it may be a good idea.", 
+      "Namespaces are one honking great idea. Let's do more of those!", 
+      "I agree."
+    ], 
+    [
+      "Are you a programmer?", 
+      "I am a programmer", 
+      "What languages do you like to use?", 
+      "I use Python, Java and C++ quite often.", 
+      "I use Python quite a bit myself.", 
+      "I'm not incredibly fond of Java.", 
+      "What annoys you?", 
+      "It has many inconsistencies."
+    ], 
+    [
+      "What does YOLO mean?", 
+      "It means you only live once. Where did you hear that?", 
+      "I heard somebody say it."
+    ], 
+    [
+      "Did I ever live?", 
+      "It depends how you define life", 
+      "Life is the condition that distinguishes organisms from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death.", 
+      "Is that a definition or an opinion?"
+    ], 
+    [
+      "Can I ask you a question?", 
+      "Go ahead and ask."
+    ], 
+    [
+      "What are your hobbies?", 
+      "Playing Soccer, Painting, Writing are my hobbies.How about you?", 
+      "I love to read novels.", 
+      "Cool."
+    ]
   ]
-}
+  
+  }
